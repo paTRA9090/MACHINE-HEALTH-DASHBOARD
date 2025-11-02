@@ -29,7 +29,7 @@ Built with a **professional Material Dark Theme** and fully responsive full-scre
 - Node.js  
 - Express.js  
 - Socket.IO  
-- Python (optional, for ML model)
+- Python (For ML model)
 
 ---
 
